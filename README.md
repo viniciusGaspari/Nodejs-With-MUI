@@ -1,1 +1,1 @@
-my first full stack applicating with nodejs and spring boot 
+my first full stack application with nodejs and spring boot 
